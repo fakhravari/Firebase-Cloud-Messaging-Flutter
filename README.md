@@ -17,8 +17,10 @@ flutterfire configure     <    vpn <br/>
 
 <br/>
 
-[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](http://url/to/img.png](https://s8.uupload.ir/files/firebase-cloud-messaging2_iam2.png))]([https://youtu.be/T-D1KVIuvjA](https://uupload.ir/view/fcm_dst.mp4))
-
+ 
+<video controls width="300">
+    <source src="https://uupload.ir/view/fcm_ps9b.mp4" type="video/mp4">
+</video>
 
 
 ## WebSite
