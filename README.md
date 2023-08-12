@@ -17,7 +17,9 @@ flutterfire configure     <    vpn <br/>
 
 <br/>
 
-![Firebase Cloud Messaging Flutter]([[http://url/to/img.png](https://s8.uupload.ir/files/firebase-cloud-messaging2_iam2.png)](https://uupload.ir/view/fcm_dst.mp4)
+[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](http://url/to/img.png](https://s8.uupload.ir/files/firebase-cloud-messaging2_iam2.png))]([https://youtu.be/T-D1KVIuvjA](https://uupload.ir/view/fcm_dst.mp4))
+
+
 
 ## WebSite
 - [Fakhravari.ir](https://fakhravari.ir)
