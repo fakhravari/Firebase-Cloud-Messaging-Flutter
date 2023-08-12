@@ -2,10 +2,10 @@
 Configuration package
 <br/>
 
-Dependencies:<br />
-  firebase_messaging: ^14.6.5
-  firebase_core: ^2.15.0
-  flutter_local_notifications: ^15.1.0+1
+Dependencies: <br />
+  firebase_messaging: ^14.6.5 <br />
+  firebase_core: ^2.15.0 <br />
+  flutter_local_notifications: ^15.1.0+1 <br />
 <br/>
 
 Install = Node.js <br/>
@@ -17,11 +17,7 @@ flutterfire configure     <    vpn <br/>
 
 <br/>
 
- 
-<video controls width="300">
-    <source src="https://drive.google.com/file/d/1reUP4tnPWlXcfZmSIS1Tu9u0SjgwRUjE/view?usp=sharing" type="video/mp4">
-</video>
-
+!(vv)(https://s8.uupload.ir/files/fcm_uf2x.gif)
 
 ## WebSite
 - [Fakhravari.ir](https://fakhravari.ir)
