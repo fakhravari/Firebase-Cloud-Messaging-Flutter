@@ -19,7 +19,7 @@ flutterfire configure     <    vpn <br/>
 
 ![firebase-cloud-messaging](https://github.com/fakhravari/Firebase-Cloud-Messaging-Flutter/assets/4311975/a14c40f2-74b5-417d-ae4f-e082e2f18dd9)
 <br/>
-<iframe src="https://drive.google.com/file/d/1reUP4tnPWlXcfZmSIS1Tu9u0SjgwRUjE/preview" width="640" height="480"></iframe>
+ [لینک به ویدئو](https://drive.google.com/file/d/1reUP4tnPWlXcfZmSIS1Tu9u0SjgwRUjE/view?usp=drive_link)
 
 
 
