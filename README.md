@@ -8,6 +8,11 @@ Dependencies: <br />
   flutter_local_notifications: ^15.1.0+1 <br />
 <br/>
 
+AndroidManifest: <br />
+<activity   android:showWhenLocked="true"
+            android:turnScreenOn="true">
+<br/>
+
 Install = Node.js <br/>
 Terminal = npm install -g firebase-tools <br/>
 dart pub global activate flutterfire_cli <br/>
