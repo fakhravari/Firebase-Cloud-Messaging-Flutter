@@ -2,13 +2,15 @@
 Configuration package
 <br/>
 
-Dependencies: <br />
-  firebase_messaging: ^14.6.5 <br />
-  firebase_core: ^2.15.0 <br />
-  flutter_local_notifications: ^15.1.0+1 <br />
+Dependencies:
+```
+  firebase_messaging: ^14.6.5
+  firebase_core: ^2.15.0
+  flutter_local_notifications: ^15.1.0+1
+```
 <br/>
 
-AndroidManifest: <br />
+AndroidManifest:
 ```
 <activity
             android:showWhenLocked="true"
