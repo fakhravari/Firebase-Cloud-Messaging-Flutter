@@ -9,7 +9,11 @@ Dependencies: <br />
 <br/>
 
 AndroidManifest: <br />
-activity >  android:showWhenLocked="true"  android:turnScreenOn="true"
+```
+<activity
+            android:showWhenLocked="true"
+            android:turnScreenOn="true">
+```
 <br/>
 
 Install = Node.js <br/>
