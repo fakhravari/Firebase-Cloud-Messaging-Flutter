@@ -15,11 +15,10 @@ AndroidManifest:
 <activity
             android:showWhenLocked="true"
             android:turnScreenOn="true">
-
-minSdkVersion 21
 ```
 <br/>
-
+minSdkVersion 21
+<br/>
 Install = Node.js <br/>
 Terminal = npm install -g firebase-tools <br/>
 dart pub global activate flutterfire_cli <br/>
