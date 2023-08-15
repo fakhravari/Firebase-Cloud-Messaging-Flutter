@@ -18,7 +18,7 @@ AndroidManifest:
 ```
 <br/>
 minSdkVersion 21
-<br/>
+<br/><br/>
 Install = Node.js <br/>
 Terminal = npm install -g firebase-tools <br/>
 dart pub global activate flutterfire_cli <br/>
