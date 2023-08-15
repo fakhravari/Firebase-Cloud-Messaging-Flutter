@@ -15,6 +15,8 @@ AndroidManifest:
 <activity
             android:showWhenLocked="true"
             android:turnScreenOn="true">
+<br/>
+minSdkVersion 21
 ```
 <br/>
 
